@@ -8,9 +8,10 @@
   integrity sha512-sAP4LldeWNz0lNzmTird3uWfFDWWTeg6V/MsmyyLR9X1idwKBWIgt/ZvinqQldJm3LecKEs1emkbquO6PCiLVQ==
 
 "@achrinza/node-ipc@9.2.9":
-  version "9.2.2"
-  resolved "https://registry.npmjs.org/@achrinza/node-ipc/-/node-ipc-9.2.2.tgz#ae1b5d3d6a9362034eea60c8d946b93893c2e4ec"
-  integrity sha512-b90U39dx0cU6emsOvy5hxU4ApNXnE3+Tuo8XQZfiKTGelDwpMwBVgBP7QX6dGTcJgu/miyJuNJ/2naFBliNWEw==
+  version "9.2.9"
+  resolved "https://registry.npmjs.org/@achrinza/node-ipc/-/node-ipc-9.2.9.tgz"
+  integrity sha512-eecd15713c222bfd2d34e55d497f4558c78574e11cb003b3f477ac065757c4531a1af21a93b282db3f6d57d120b105e7e8a52c5ac7c891588c36e228d06a190d
+
   dependencies:
     "@node-ipc/js-queue" "2.0.3"
     event-pubsub "4.3.0"
