@@ -7,10 +7,10 @@
   resolved "https://registry.npmjs.org/7zip-bin/-/7zip-bin-5.1.1.tgz#9274ec7460652f9c632c59addf24efb1684ef876"
   integrity sha512-sAP4LldeWNz0lNzmTird3uWfFDWWTeg6V/MsmyyLR9X1idwKBWIgt/ZvinqQldJm3LecKEs1emkbquO6PCiLVQ==
 
-"@achrinza/node-ipc@9.2.9":
-  version "9.2.9"
-  resolved "https://registry.npmjs.org/@achrinza/node-ipc/-/node-ipc-9.2.9.tgz"
-  integrity sha512-eecd15713c222bfd2d34e55d497f4558c78574e11cb003b3f477ac065757c4531a1af21a93b282db3f6d57d120b105e7e8a52c5ac7c891588c36e228d06a190d
+"@achrinza/node-ipc@10.1.11":
+  version "10.1.11"
+  resolved "https://registry.npmjs.org/@achrinza/node-ipc/-/node-ipc-10.1.11.tgz"
+  integrity 
 
   dependencies:
     "@node-ipc/js-queue" "2.0.3"
